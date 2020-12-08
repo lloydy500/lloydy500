@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**lloydy500/lloydy500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi I'm Lloyd. I'm a fullstack web developer looking for interesting opportunites.
 
 - 🔭 I’m currently looking look for full-time roles based in London.
 - 🌱 I’ve just graduated from coding at Le Wagon and will be working on projects until I find a job.
