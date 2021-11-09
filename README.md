@@ -1,10 +1,6 @@
 
-Hi I'm Lloyd. Thanks for checking out my profile.
+Hi I'm Lloyd!
 
-🏨 I've developed a web app for a hotel that improves operational efficiency for hotel management, reception and cleaners by live monitoring of  both guest and cleaning activities in hotel rooms. I hope that one day it will be used in all hotels :)
-
-🔒 Right now I'm working on a reputation management tool for sports people. 
-
-🎸Fun fact: I play guitar! Check out our band here: https://open.spotify.com/track/2iwOVD71bq3mVxaXXMqRpa
+Right now I'm most likely coding.
 
 Get in touch: lloydchaps@gmail.com
