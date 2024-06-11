@@ -1,2 +1,1 @@
-
-Junior Backend Dev @ Sportable
+Backend Dev @ Sportable
